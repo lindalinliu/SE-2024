@@ -1,10 +1,10 @@
 site_name: 软件工程
 site_description: 'Documentation for Software Engineering'
 site_author: 'LinLiuLab'
-copyright: 'Copyright &copy; 2023 LinLiuLab. All Rights Reserved.'
+copyright: 'Copyright &copy; 2024 LinLiuLab. All Rights Reserved.'
 
-repo_name: 'LinLiuLab/SE-2023'
-repo_url: 'https://github.com/LinLiuLab/SE-2023'
+repo_name: 'LinLiuLab/SE-2024'
+repo_url: 'https://github.com/LinLiuLab/SE-2024'
 
 nav:
   - 课程概述: index.md
